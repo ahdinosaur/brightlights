@@ -14,10 +14,13 @@
     "led",
     "osc"
   ],
-  "author": "ahdinosaur",
+  "author": "Michael Williams <dinosaur@riseup.net>",
   "license": "MIT",
   "dependencies": {
-    "osc-min": "0.0.12"
+    "osc-min": "0.0.12",
+    "spi": "0.1.0",
+    "easing": "0.0.4",
+    "lodash": "~2.2.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
