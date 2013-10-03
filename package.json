@@ -1,0 +1,26 @@
+{
+  "name": "brightlights",
+  "version": "0.0.0",
+  "description": "control WS2801 LEDs using OSC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahdinosaur/brightlights.git"
+  },
+  "keywords": [
+    "led",
+    "osc"
+  ],
+  "author": "ahdinosaur",
+  "license": "MIT",
+  "dependencies": {
+    "osc-min": "0.0.12"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-livescript": "~0.5.0"
+  }
+}
